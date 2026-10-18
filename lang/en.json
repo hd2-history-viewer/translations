@@ -1297,6 +1297,7 @@
   "share.alreadyInLibraryCheck": "✓ This replay is already in your library.",
   "share.serverNotConfigured": "Sharing server is not configured. Local replay remains available.",
   "share.signedIn": "Signed in.",
+  "share.signInOutsideDiscord": "Sign-in is not available inside Discord yet. Open hd2-replay.code0987.me in a browser to sign in.",
   "share.allowSignInPopup": "Allow the sign-in popup.",
   "share.completeDiscordSignIn": "Complete Discord sign-in in the new window.",
   "share.compressingReplay": "Compressing replay…",

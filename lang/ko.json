@@ -1297,6 +1297,7 @@
   "share.alreadyInLibraryCheck": "✓ 이미 내 보관함에 저장된 리플레이입니다.",
   "share.serverNotConfigured": "공유 서버 설정 전입니다. 로컬 리플레이는 그대로 사용할 수 있습니다.",
   "share.signedIn": "로그인했습니다.",
+  "share.signInOutsideDiscord": "Discord 안에서는 아직 로그인할 수 없습니다. 브라우저에서 hd2-replay.code0987.me를 열어 로그인하세요.",
   "share.allowSignInPopup": "로그인 팝업을 허용하세요.",
   "share.completeDiscordSignIn": "새 창에서 Discord 로그인을 완료하세요.",
   "share.compressingReplay": "리플레이 압축 중…",
