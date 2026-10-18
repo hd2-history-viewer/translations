@@ -1599,5 +1599,6 @@
   "together.openFailed": "Could not open the leader's replay",
   "together.receiveFailed": "Could not receive the leader's replay",
   "together.take": "Lead",
-  "together.followAgain": "Follow again"
+  "together.followAgain": "Follow again",
+  "together.packFailed": "This replay is too large to send. Only playback is shared"
 }

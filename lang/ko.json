@@ -1599,5 +1599,6 @@
   "together.openFailed": "진행자의 리플레이를 열지 못했습니다",
   "together.receiveFailed": "진행자의 리플레이를 받지 못했습니다",
   "together.take": "내가 진행하기",
-  "together.followAgain": "다시 따라가기"
+  "together.followAgain": "다시 따라가기",
+  "together.packFailed": "리플레이가 너무 커서 함께 볼 수 없습니다. 재생만 맞춥니다"
 }
