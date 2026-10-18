@@ -1589,5 +1589,15 @@
   "consent.text": "To improve the site we collect anonymous usage counts and parts of the record for game items that have no name or icon yet. Player names and positions are never collected.",
   "consent.policy": "Learn more",
   "consent.ok": "OK",
-  "consent.off": "Turn off"
+  "consent.off": "Turn off",
+  "together.controlling": "You are leading · {count} watching",
+  "together.following": "Following the leader",
+  "together.receiving": "Receiving the leader's replay {percent}%",
+  "together.detached": "Watching on your own",
+  "together.left": "The leader left",
+  "together.idle": "Watching together · open a replay to lead",
+  "together.openFailed": "Could not open the leader's replay",
+  "together.receiveFailed": "Could not receive the leader's replay",
+  "together.take": "Lead",
+  "together.followAgain": "Follow again"
 }

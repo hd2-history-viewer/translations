@@ -1589,5 +1589,15 @@
   "consent.text": "사이트 개선을 위해 익명 이용 통계와, 이름·아이콘이 없는 게임 항목의 기록 일부를 수집합니다. 플레이어 이름과 위치는 수집하지 않습니다.",
   "consent.policy": "자세히 보기",
   "consent.ok": "확인",
-  "consent.off": "수집 끄기"
+  "consent.off": "수집 끄기",
+  "together.controlling": "내가 진행 중 · {count}명이 함께 보는 중",
+  "together.following": "진행자를 따라 보는 중",
+  "together.receiving": "진행자의 리플레이를 받는 중 {percent}%",
+  "together.detached": "따로 보는 중",
+  "together.left": "진행자가 나갔습니다",
+  "together.idle": "함께 보는 중 · 리플레이를 열면 진행자가 됩니다",
+  "together.openFailed": "진행자의 리플레이를 열지 못했습니다",
+  "together.receiveFailed": "진행자의 리플레이를 받지 못했습니다",
+  "together.take": "내가 진행하기",
+  "together.followAgain": "다시 따라가기"
 }
